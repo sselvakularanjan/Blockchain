@@ -1,0 +1,5 @@
+mkdir zbank_testnet
+cd zbank_testnet
+
+geth account new --datadir node1_zbank   >>> 0x 804cBa98F65d151341e644Bd98A05D3D535841FA
+geth account new --datadir node2_zbank   >>> 0x 3B911C402D99497de194Ad8BF827F5bbE02F5bBe
